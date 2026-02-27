@@ -1,0 +1,25 @@
+{
+  "name": "devsecops-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiissSheep/DevSecOps-Monitoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MiissSheep/DevSecOps-Monitoring/issues"
+  },
+  "homepage": "https://github.com/MiissSheep/DevSecOps-Monitoring#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "prom-client": "^15.1.3"
+  }
+}
